@@ -1,0 +1,12 @@
+* {
+    font-family: 'Ubuntu Mono', monospace;
+    font-style: normal;
+}
+
+h1, h2, h3 {
+    font-weight: 700;
+}
+
+p, input, button, select, label, li, a {
+    font-weight: 400;
+}
