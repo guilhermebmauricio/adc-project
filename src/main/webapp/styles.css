@@ -10,3 +10,8 @@ h1, h2, h3 {
 p, input, button, select, label, li, a {
     font-weight: 400;
 }
+
+body.dark {
+    background-color: #000;
+    color: #fff;
+}
